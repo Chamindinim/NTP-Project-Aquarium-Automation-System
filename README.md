@@ -9,7 +9,7 @@ Aquarium Automation device for small scale home held aquariums that automates mo
 
 ### System capabilities:
 
-+ Automatic Fish Feeding – Monitor and control feeding patterns.
++ Automatic Fish Feeding – Monitor and control feeding.
 + Water Level Sensing – Water leakage detection, water level monitoring.
 + Water Quality Control – PH level monitoring, automatic PH level controlling.
 + Temperature Control – Temperature sensing, automatic temperature control.
